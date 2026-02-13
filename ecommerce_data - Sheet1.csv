@@ -1,0 +1,6 @@
+Order_ID,Date ,Product,Category,Price,Quantity,Customer_City
+1001,2024-1-5,wireless mouse,Electronics,500,2,hyderabad
+1002,2024-1-6,t-shirt,Clothing,800,1,banglore
+1003,2024-1-7,headphones,Electronics,1500,1,delhi
+1004,2024-1-8,shoes,Footwear,2000,1,chennai
+1005,2024-1-9,backpack,Accessories,1200,3,mumbai
